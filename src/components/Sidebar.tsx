@@ -167,10 +167,10 @@ const Sidebar = ({ onToggle, activePath = '/' }: SidebarProps) => {
   ];
 
   const { siteName } = useSite();
-  if (siteName !== 'MoonTV') {
+  if (siteName !== 'GiaoTV') {
     menuItems.push({
       icon: Github,
-      label: 'MoonTV',
+      label: 'GiaoTV',
       href: 'https://github.com/senshinya/MoonTV',
     });
   }
