@@ -1,6 +1,6 @@
 {
-  "name": "MoonTV",
-  "short_name": "MoonTV",
+  "name": "GiaoTV",
+  "short_name": "GiaoTV",
   "description": "影视聚合",
   "start_url": "/",
   "scope": "/",
